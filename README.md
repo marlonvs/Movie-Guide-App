@@ -1,4 +1,4 @@
 # Movie-Guide-App
 Movie guide app
 
-study material
+Project developed with the aim of learning new technologies and improving knowledge.
